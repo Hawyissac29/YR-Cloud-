@@ -2,6 +2,8 @@
 *INRODUCTION*
 The cloud is defined as the network of computers . It refers to the network of computers which is owned one person or a company to store all the data . the data are stored in a physical machine which is **hardware**
 
+sample
+
 *KEY FEATURES*
 
  - The first key feature is that it has process management which manages the process through every computer which is connected with the network .
